@@ -9,6 +9,10 @@ The E-commerce app UI has two pages one for the product page which has a horizon
 
 ### E-commerce App Final UI
 
-![intro](https://github.com/[DavidLivingstoneHini]/[E-commerce-App-UI-Flutter]/blob/[master]/intro.gif?raw=true)
+<img src="intro.gif"
+     alt="intro"
+     style="float: left; margin-right: 10px;" />
 
-![App UI](ui.png)
+<img src="ui.png"
+     alt="UI"
+     style="float: left; margin-right: 10px;" />
