@@ -1,5 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
-
 # E-commerce App - Flutter UI
 
 **Packages:**
@@ -11,6 +9,6 @@ The E-commerce app UI has two pages one for the product page which has a horizon
 
 ### E-commerce App Final UI
 
-![intro](intro.gif)
+![intro](assets/intro.gif)
 
-![App UI](/ui.png)
+![App UI](assets/ui.png)
