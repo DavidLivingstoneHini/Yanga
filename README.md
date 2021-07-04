@@ -9,10 +9,7 @@ The E-commerce app UI has two pages one for the product page which has a horizon
 
 ### E-commerce App Final UI
 
-<img src="intro.gif"
-     alt="intro"
-     style="float: left; margin-right: 10px;" />
+![intro](intro.gif)
 
-<img src="ui.png"
-     alt="UI"
-     style="float: left; margin-right: 10px;" />
+![ui](ui.png)
+
