@@ -11,5 +11,3 @@ The E-commerce app UI has two pages one for the product page which has a horizon
 
 ![intro](intro.gif)
 
-![ui](ui.png)
-
